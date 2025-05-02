@@ -13,4 +13,4 @@ danyal = {
 
 exec(danyal["currentGoal"])
 ```
-<img src="https://i.pinimg.com/originals/e4/fb/81/e4fb81f935a0fec378f82c7b5c0173c6.gif">
+<img src="https://64.media.tumblr.com/b8aa1e4525f481476975afaafa62a9ed/af6f9df2fb59c5f2-9d/s540x810/b2f61156dd0abb797651982146a1b53fb9f63f71.gif">
