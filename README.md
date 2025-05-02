@@ -1,3 +1,5 @@
+<h1> hey, im danyal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 ```py
 danyal = {
     "pronouns": ["he", "him"],
@@ -11,3 +13,4 @@ danyal = {
 
 exec(danyal["currentGoal"])
 ```
+<img src="https://i.pinimg.com/originals/e4/fb/81/e4fb81f935a0fec378f82c7b5c0173c6.gif">
