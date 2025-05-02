@@ -9,6 +9,5 @@ danyal = {
     "currentGoal": "while True: print('getting better')"
 }
 
-# Execute the loop (if needed)
 exec(danyal["currentGoal"])
 ```
