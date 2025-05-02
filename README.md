@@ -1,6 +1,6 @@
 <h2> hey, im danyal <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1ZHg2dmhyeHV0cHhqazkwaGNnbmRqNzNudnhzb2h2eTVlY3Q2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C4b6GwFKbYxK8/giphy.gif" width="20"></h2>
 
-```py
+```python
 danyal = {
     "pronouns": ["he", "him"],
     "code": ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "Java"],
