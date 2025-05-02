@@ -1,4 +1,4 @@
-<h1> hey, im danyal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> hey, im danyal <img src="https://i.imgur.com/gt9H5xn.gif" width="50"></h1>
 
 ```py
 danyal = {
