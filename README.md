@@ -14,7 +14,7 @@ danyal = {
 exec(danyal["currentGoal"])
 ```
 <p align="center">
-  <img src="https://64.media.tumblr.com/6b47f1e51995f6b25eba9d196fd79396/1b0b21d5f6c61a97-7d/s400x600/bbc7e64168aa2810a1f259290ff461dc61be1edc.gif" alt="GIF 1" style="width: 48%; margin-right: 10px;">
-  <img src="https://64.media.tumblr.com/b3a2359706446517dc48534c3fe429cd/1b0b21d5f6c61a97-3b/s400x600/c1d593cc1936db1085366a1606ef8f720e71f7d3.gif" alt="GIF 2" style="width: 48%;">
+  <img src="https://64.media.tumblr.com/6b47f1e51995f6b25eba9d196fd79396/1b0b21d5f6c61a97-7d/s400x600/bbc7e64168aa2810a1f259290ff461dc61be1edc.gif">
+  <img src="https://64.media.tumblr.com/b3a2359706446517dc48534c3fe429cd/1b0b21d5f6c61a97-3b/s400x600/c1d593cc1936db1085366a1606ef8f720e71f7d3.gif">
 </p>
 
