@@ -1,4 +1,4 @@
-<h1> hey, im danyal <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1ZHg2dmhyeHV0cHhqazkwaGNnbmRqNzNudnhzb2h2eTVlY3Q2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C4b6GwFKbYxK8/giphy.gif" width="50"></h1>
+<h1> hey, im danyal <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1ZHg2dmhyeHV0cHhqazkwaGNnbmRqNzNudnhzb2h2eTVlY3Q2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C4b6GwFKbYxK8/giphy.gif" width="20"></h1>
 
 ```py
 danyal = {
