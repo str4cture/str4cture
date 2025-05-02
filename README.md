@@ -1,5 +1,14 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&pause=1000&color=19A4F7&center=true&vCenter=true&width=435&lines=my+name+is+danyal;%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E4%B8%B9%E5%B0%BC%E5%B0%94;%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B2+%E0%A4%B9%E0%A5%88;me+llamo+danyal;je+m'appelle+danyal;%D8%A3%D9%86%D8%A7+%D8%A7%D8%B3%D9%85%D9%8A+%D8%AF%D8%A7%D9%86%D9%8A%D8%A7%D9%84;%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0+%E0%A6%A8%E0%A6%BE%E0%A6%AE+%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2;o+meu+nome+%C3%A9+danyal;%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%81%A7%E3%81%99" alt="Typing SVG" /></a> </p>
+```
+danyal = {
+    "pronouns": ["he", "him"],
+    "code": ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "Java"],
+    "tools": [
+        "React", "Node.js", "Flask", "FastAPI", "SQLAlchemy", 
+        "Docker", "Git", "PostgreSQL", "Figma"
+    ],
+    "currentGoal": "while True: print('getting better')"
+}
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&pause=1000&color=1A71F7&center=true&vCenter=true&width=435&lines=i+am+21+years+old;%E6%88%9121%E5%B2%81;%E0%A4%AE%E0%A5%88%E0%A4%82+21+%E0%A4%B8%E0%A4%BE%E0%A4%B2+%E0%A4%95%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81;tengo+21+a%C3%B1os;j'ai+21+ans;%D8%B9%D9%85%D8%B1%D9%8A+21+%D8%B3%D9%86%D8%A9;%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A7%A8%E0%A7%A7+%E0%A6%AC%E0%A6%9B%E0%A6%B0+%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A7%80;tenho+21+anos;%D0%BC%D0%BD%D0%B5+21+%D0%B3%D0%BE%D0%B4;%E7%A7%81%E3%81%AF21%E6%AD%B3%E3%81%A7%E3%81%99" alt="Typing SVG" /></a> </p>
-
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&pause=1000&color=1E1DF7&center=true&vCenter=true&width=435&lines=i+am+an+aspiring+software+engineer;%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%9C%89%E6%8A%B1%E8%B4%9F%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88;%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%8F%E0%A4%95+%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80+%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%9F%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0+%E0%A4%B9%E0%A5%82%E0%A4%82;soy+un+ingeniero+de+software+aspirante;je+suis+un+ing%C3%A9nieur+logiciel+aspirant;%D8%A3%D9%86%D8%A7+%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD;%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8+%E0%A6%89%E0%A6%A6%E0%A7%80%E0%A7%9F%E0%A6%AE%E0%A6%BE%E0%A6%A8+%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0;sou+um+engenheiro+de+software+aspirante;%D1%8F+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82;%E7%A7%81%E3%81%AF%E5%B0%86%E6%9D%A5%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A7%E3%81%99" alt="Typing SVG" /></a> </p>
+# Execute the loop (if needed)
+exec(danyal["currentGoal"])
+```
