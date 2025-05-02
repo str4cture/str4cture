@@ -1,4 +1,4 @@
-```
+```py
 danyal = {
     "pronouns": ["he", "him"],
     "code": ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "Java"],
